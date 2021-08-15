@@ -7,3 +7,4 @@ v3: only concatenating layers (without top), adding dense layers and dropout reg
 v4: changed combination of inputs. 0.53866 (retry for final v, 50min training).  
 v5: 60 epochs. 0.51 --> model is not underfitting (keep at 25).   
 v6: combining resnet with vgg16 without robust generator 0.56
+v7: vgg only 0.56  
