@@ -19,5 +19,5 @@ v7: VGG16 only: 0.56
 v8: double siamese FaceNet and VGG16: 0.52  
 
 ### ResNet50 and VGG16 ###
-v9: double siamese ResNet50 and VGG16 without robust generator: 0.56
+v9: double siamese ResNet50 and VGG16 without robust generator: 0.56  
 v10: double siamese VGG16 and ResNet50: 0.55  
